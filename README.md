@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20Studying&like&a&habit&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=%20Passion&fontSize=60)
 
 <!---
 Eui-seong/Eui-seong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
