@@ -5,5 +5,3 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <p align="center">
-  
-![Eui-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eui-seong&show_icons=true&theme=radical)
