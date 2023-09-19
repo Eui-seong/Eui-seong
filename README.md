@@ -1,3 +1,3 @@
 Hi, there!
-<hr><br><br>
+<hr><br>
 I'm Uiseong Shin
